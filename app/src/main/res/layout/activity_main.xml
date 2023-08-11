@@ -7,12 +7,23 @@
     android:background="@drawable/mainactivitybg"
     tools:context=".MainActivity">
 
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="J-GPT "
+        app:titleTextColor="#F6F6F6"
+        app:titleMarginEnd="16dp"
+        app:titleMarginStart="150dp"
+        android:background="#031545"/>
+
 
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/recyclerview"
+        android:layout_below="@id/toolbar"
         android:layout_above="@id/bottom_layout"/>
 
     <TextView
