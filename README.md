@@ -33,4 +33,4 @@ The culmination of these design choices and technical implementations resulted i
 
 
 
-<img src="https://github.com/JAYS-bit/cloneJayGPT/blob/master/ss0.jpeg"  title="ScreenShot-1">
+<img src="https://github.com/JAYS-bit/cloneJayGPT/blob/master/ss0.jpeg"  title="ScreenShot-1" max-height="200px">
