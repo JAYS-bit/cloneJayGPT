@@ -31,4 +31,4 @@ The application's performance benchmarks aligned seamlessly with the efficiency 
 The culmination of these design choices and technical implementations resulted in an Android application that demonstrated seamless and proficient operational capabilities. The app's ability to swiftly process user inputs, generate intelligent responses, and foster engaging interactions underscored its role as a capable and reliable conversational partner. Users could interact with the application with confidence, secure in the knowledge that their queries would be met with prompt and meaningful responses
 
 
-!https://github.com/JAYS-bit/cloneJayGPT/blob/master/ss0.jpeg
+!(https://github.com/JAYS-bit/cloneJayGPT/blob/master/ss0.jpeg)
